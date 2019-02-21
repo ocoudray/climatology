@@ -1,0 +1,8 @@
+numpy
+scipy
+ipywidgets
+bqplot
+matplotlib
+tqdm
+jinja2
+xarray
